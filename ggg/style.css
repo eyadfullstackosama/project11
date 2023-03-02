@@ -1,0 +1,361 @@
+body{
+    background-image: url(blue_bg.png);
+    background-repeat: no-repeat;
+    background-size: 1590px;
+
+}
+
+.ht{
+    display: flex;
+    background-image: url;
+        background-repeat: no-repeat;
+        background-size: contain ;
+        height: 200%;
+        max-height: 150%;
+        max-width: 150%;
+       
+        position: absolute;
+        width: 100%;
+        margin-top: 60px;
+
+}
+
+        
+   .hhhh{
+
+display: flex;
+
+   } 
+    
+
+.nava{
+    margin: 16px;
+    color: rgb(172, 172, 172);
+    
+    
+   
+   
+    
+}
+
+.nava:hover{
+color: black;
+transition: 0.5s ease-in-out 0s;
+}
+
+.nava:link {
+    text-decoration: none;}
+
+   
+ .nav-right a{
+    display: flex;
+    align-items: end;
+    padding-bottom: 80px 1px 1px 40px;
+ direction: rtl;
+ justify-content: center;
+ text-decoration: none;
+ color: #050505b5;
+ background-color:white;
+ border-radius: 25px;
+ font-size:18px;
+ margin: 5px;
+ margin-left: 800px;
+ width: 110px;
+ height: 30px;
+
+ 
+ }
+ 
+ .nav-right a:link{
+    text-decoration: none;
+    text-align: center;
+   
+
+ }
+ 
+      
+    
+
+    .qqq{
+font-size: x-large;
+color: rgba(0, 0, 0, 0.477);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;
+
+    }
+
+    .del{
+        text-decoration: none;
+        color: blueviolet;
+        font-size: 70px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    }
+
+.www{
+    font-size: 25px;
+color: rgba(0, 0, 0, 0.459);
+margin-top: 1%;
+
+
+
+}
+
+.section
+{
+    display: flex;
+   justify-content: space-around;
+   position: relative;
+}
+.rit {
+
+margin-left: 9%;
+margin-top: 6%;
+font-size: large;
+}
+.del1{
+    font-size:50px;
+}
+
+
+.img{
+    display: flex;
+    margin-left: 60%;
+   
+    flex-flow: row wrap;
+    justify-content: left;
+    align-items: center;
+    
+   
+    
+
+
+}
+
+    
+ .man{
+   
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    background-size: 400px;
+  background-position-x: center;
+  position: absolute;
+
+  top: 16%;
+ 
+ }
+ .maan1{
+    width: 280px;
+    z-index: 700;
+    
+    
+ }
+.backman1{
+
+width: 700px;
+position: absolute;
+top: 13%;
+right: 6%;
+
+
+}
+
+ .cloud{
+   
+
+   width: 700px;
+   position: absolute;
+   top: 65%;
+   right: 6%;
+    width: 700px;
+     }
+     .waves1{
+        right: 600%;
+        width:2000px ;
+       top: 83%;
+       right: 26%;
+        position: absolute;
+     }
+    
+      
+     .girl{
+      margin-left: 10%;
+     }
+
+    .girl2{
+    
+      margin-left: 40%;
+      position: relative;
+    }
+
+    .flex{
+      display: flex;
+    }
+
+.back{
+   width: 340px;
+   margin-left: 18%;
+  
+}
+
+.kkk{
+   
+   left: 12%;
+   margin-top: 4%;
+   position: absolute;
+   color: white;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+     
+     .line3{
+      display: flex;
+    
+     }
+     .logo2{
+      margin-left: 46%;
+     }
+     .letgo{
+      position: absolute;
+      top: 140%;
+      right: 5%;
+      color: gray;
+     }
+   
+    
+
+     .line4{
+        display: flex;
+        justify-content: space-around;
+     }
+
+
+     .line5{
+
+        margin-left: 40%;
+        position: relative;
+     }
+     .mid6{
+      display: flex;
+     justify-content: space-evenly;
+     }
+.arrr{
+   width: 10px;
+   color: gray;
+}
+.arrl{
+   width: 10px;
+   color: gray;
+}
+.wrt{
+margin-left: 30%;
+font-size: large;
+margin-top: 2%;
+
+
+}
+.footer{
+   display: flex;
+}
+.img1212{
+width: 1515px;
+}
+
+.backw{
+   display: flex;
+   position: absolute;
+   top:476%;
+   left: 9%;
+}
+
+.playstore{
+   display: flex;
+   position: absolute;
+   left: 22.5%;
+   top: 476%;
+
+}
+.play{
+   width: 35px;
+   height: 43px;
+
+}
+.appstore{
+   position: absolute;
+   top: 476%;
+   display: flex;
+   left: 10%;
+}
+.app1{
+   width: 35px;
+   height: 40px;
+}
+.maan11{
+   position: absolute;
+   width: 670px;
+   left: 50%;
+   top: 447%;
+
+}
+.appsd{
+   position: absolute;
+  
+   display: flex;
+   top:486% ;
+   margin: 20px;
+
+}
+.insta{
+margin-left: 120%;
+}
+.whats{
+margin-left: 20%;
+}
+.face{
+ margin-left:20%;
+}
+.footer121{
+   position: absolute;
+   top:499%;
+   margin-left: 7%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.nava1{
+   margin: 16px;
+   color: rgb(255, 254, 254);
+
+}
+.nava1:hover{
+   color: black;
+   transition: 0.5s ease-in-out 0s;
+   }
+   
+   .nava1:link {
+       text-decoration: none;}
+   
+      
+    .nav-right a{
+       display: flex;
+       align-items: end;
+       padding-bottom: 80px 1px 1px 40px;
+    direction: rtl;
+    justify-content: center;
+    text-decoration: none;
+    color: #050505b5;
+    background-color:white;
+    border-radius: 25px;
+    font-size:18px;
+    margin: 5px;
+    margin-left: 800px;
+    width: 110px;
+    height: 30px;
+   
+    
+    }
+    
+    .nav-right a:link{
+       text-decoration: none;
+       text-align: center;
+      
+   
+    }
+    
